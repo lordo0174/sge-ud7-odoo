@@ -1,0 +1,5 @@
+# Contraseñas del Odoo local: nunca al repositorio
+.credenciales-locales.json
+
+# Versiones del README por bloque, solo de apoyo para preparar los commits
+.readme-por-bloques/
