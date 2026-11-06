@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 360" width="1240" height="360">
+      <g transform="translate(0.0 0.0) scale(1.000)">
+      <polygon points="180.0,18.0 320.3,99.0 320.3,261.0 180.0,342.0 39.7,261.0 39.7,99.0" fill="#1F3A3D"/>
+      <polygon points="180.0,38.0 303.0,109.0 303.0,251.0 180.0,322.0 57.0,251.0 57.0,109.0" fill="none" stroke="#E8A317" stroke-width="5"/>
+      <path d="M112 250 C146 226 104 176 162 172 S222 188 236 132" fill="none" stroke="#E8A317" stroke-width="10" stroke-linecap="round" stroke-dasharray="1 22"/>
+      <circle cx="106.0" cy="244.5" r="10" fill="#FFFFFF"/><circle cx="116.9" cy="252.4" r="10" fill="#FFFFFF"/><circle cx="112.8" cy="265.3" r="10" fill="#FFFFFF"/><circle cx="99.2" cy="265.3" r="10" fill="#FFFFFF"/><circle cx="95.1" cy="252.4" r="10" fill="#FFFFFF"/><circle cx="106" cy="256" r="7.0" fill="#E8A317"/>
+      <g transform="translate(250 108) rotate(-42) scale(1.02)">
+      <ellipse cx="-6" cy="-22" rx="17" ry="24" fill="#FFFFFF" opacity=".92" transform="rotate(-24 -6 -22)"/>
+      <ellipse cx="12" cy="-20" rx="14" ry="20" fill="#FFFFFF" opacity=".78" transform="rotate(20 12 -20)"/>
+      <ellipse cx="0" cy="0" rx="34" ry="21" fill="#E8A317"/>
+      <path d="M-14 -19 q7 19 0 38 h10 q7 -19 0 -38z" fill="#1F3A3D"/>
+      <path d="M6 -20 q7 20 0 40 h9 q7 -20 0 -40z" fill="#1F3A3D"/>
+      <circle cx="33" cy="-3" r="13" fill="#1F3A3D"/>
+      <circle cx="37" cy="-6" r="3" fill="#FFFFFF"/>
+      <path d="M40 -14 q8 -12 16 -10 M34 -15 q4 -13 11 -15" fill="none" stroke="#1F3A3D" stroke-width="3.5" stroke-linecap="round"/>
+    </g>
+    </g>
+      <text x="372" y="196" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="138" letter-spacing="-3" fill="#1F3A3D">Zumbaruta</text>
+      <text x="378" y="268" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="43" letter-spacing="10.5" fill="#B9770E">APICULTURA NÓMADA</text>
+    </svg>
