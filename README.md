@@ -11,7 +11,7 @@ Puesta en marcha de Odoo como responsable de sistemas: instalación, plantilla c
 | **Sector** | Apicultura trashumante y polinización agrícola |
 | **Lema** | «Miel que viaja con las flores» |
 | **Odoo** | 19.0 Community con Docker Compose |
-| **Vídeo** | Pendiente de publicar |
+| **Vídeo** | [Ver en YouTube](PEGA-AQUI-EL-ENLACE-DE-YOUTUBE) |
 
 ## Índice
 
@@ -21,7 +21,7 @@ Puesta en marcha de Odoo como responsable de sistemas: instalación, plantilla c
 | ✅ | **Empresa** | [Ficha](empresa/ficha-empresa.md) · [Logo](empresa/logo.png) | Zumbaruta: 6 productos y 2 clientes base |
 | ✅ | **Usuarios** | [Usuarios, grupos y permisos](usuarios/usuarios-grupos-permisos.md) | 6 usuarios internos, 1 de portal y 2 grupos propios; 61 pruebas correctas |
 | ✅ | **Venta** | [Proceso](venta/proceso-venta.md) · [Presupuesto](venta/presupuesto.pdf) · [Factura](venta/factura.pdf) | `S00001` → `ALB/OUT/00001` → `INV/2026/00002`: pagada |
-| ⏳ | **Vídeo** | Pendiente | |
+| ✅ | **Vídeo** | [YouTube](PEGA-AQUI-EL-ENLACE-DE-YOUTUBE) | Grabación con subtítulos |
 
 Las [capturas](capturas/) sirven de apoyo a los bloques de usuarios y venta.
 
