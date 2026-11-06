@@ -19,7 +19,7 @@ Puesta en marcha de Odoo como responsable de sistemas: instalación, plantilla c
 |:-:|---|---|---|
 | ✅ | **Instalación** | [Diapositiva](instalacion/instalacion-odoo.pdf) · [Errores](instalacion/errores-instalacion.md) | Odoo 19 Community en Docker; 5 errores documentados |
 | ✅ | **Empresa** | [Ficha](empresa/ficha-empresa.md) · [Logo](empresa/logo.png) | Zumbaruta: 6 productos y 2 clientes base |
-| ⏳ | **Usuarios** | Pendiente | |
+| ✅ | **Usuarios** | [Usuarios, grupos y permisos](usuarios/usuarios-grupos-permisos.md) | 6 usuarios internos, 1 de portal y 2 grupos propios; 61 pruebas correctas |
 | ⏳ | **Venta** | Pendiente | |
 | ⏳ | **Vídeo** | Pendiente | |
 
